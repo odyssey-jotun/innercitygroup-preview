@@ -30,9 +30,41 @@ house style. Nothing was added, invented or embellished.
    in "church near me" style searches.
 4. **Decide on service times.** The dinner (last Thursday, 6:30 PM) is on the
    page. Sunday service time is referenced but never stated.
-5. **Add photos** if and when you have them. The design runs on type and color
-   on purpose: the copy is about people seeing themselves reflected, and stock
-   photos of strangers would work against that.
+5. **Replace the stock photos with real ones.** Four Pexels photos are in place
+   (see CREDITS.md). They are honest placeholders, but they are placeholders.
+   This page argues that people should walk in and see themselves reflected.
+   If a visitor later learns the faces were stock, that argument is the exact
+   thing that breaks. Real photos of the group matter more here than on a
+   typical site.
+6. **Decide on artwork of Jesus Christ.** Nothing is on the page yet, on
+   purpose. See "Artwork of Jesus Christ" below.
+
+## Artwork of Jesus Christ
+
+Requested, not shipped, because the three constraints do not currently
+intersect: Latter-day Saint in style, openly licensed, and not a European
+looking Christ.
+
+- Official Church artwork (Del Parson, the Christus, the newer commissioned
+  pieces showing a Middle Eastern Christ) is copyright Intellectual Reserve,
+  Inc. The Terms of Use allow posting Gospel Media items to another website
+  "for your own personal, noncommercial use." A public outreach site for a
+  congregation is not clearly personal use, and the same terms say other
+  materials "may not be posted from this site to another website or computer
+  network without our prior written permission." Publishing that art here
+  without asking would be a coin flip on someone else's copyright.
+- Genuinely open alternatives do exist and are clearly not European: Ethiopian
+  Orthodox, Coptic and Byzantine icons of Christ, many of them public domain
+  on Wikimedia Commons. They are stylistically iconographic, which may read as
+  foreign next to Latter-day Saint visual culture.
+
+Three ways forward, in the order I would try them:
+
+1. Email permissions@ChurchofJesusChrist.org, or ask the stake, and use
+   official Church art once you have an answer in writing.
+2. Use a public domain non-European icon and accept the change in visual register.
+3. Leave it out. Latter-day Saint meetinghouses are visually sparse by
+   design, so no artwork is a defensible choice rather than a gap.
 
 ## Notes
 
