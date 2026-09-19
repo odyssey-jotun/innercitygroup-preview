@@ -28,7 +28,27 @@ Screened out during selection, deliberately:
 
 ## Artwork of Jesus Christ
 
-None on the site yet. See README.md.
+**Christ Pantocrator**, Saint Catherine's Monastery, Mount Sinai, 6th century.
+Artist unknown. **Public domain** (age).
+Source: https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg
+
+Chosen because it satisfies all four constraints at once:
+
+- **Not Anglo.** Olive skin, dark hair, dark eyes, Semitic features. It is the
+  oldest surviving icon of Christ and predates the blonde, blue-eyed European
+  Jesus by roughly a thousand years.
+- **Public domain**, so nothing is being borrowed from Intellectual Reserve and
+  no permission is pending.
+- **A living Christ**, shown blessing and holding the gospels. Crucifixion and
+  cross imagery was excluded on purpose, since Latter-day Saint practice
+  emphasises the living, resurrected Christ and does not use the cross.
+- High resolution (2023x3774 original), so it holds up cropped.
+
+Honest caveat: it reads Mediterranean and Middle Eastern rather than Black. A
+more distinctly African alternative exists and is also public domain, *Christ
+in Glory* from the Ethiopic Gospels, British Library Or. MS 481 f.110v, but it
+is a stylised manuscript illumination that reads as a historical artifact
+rather than devotional art, and the available scan is only 630x613.
 
 ## Icons
 

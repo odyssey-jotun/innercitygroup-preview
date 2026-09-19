@@ -36,35 +36,29 @@ house style. Nothing was added, invented or embellished.
    If a visitor later learns the faces were stock, that argument is the exact
    thing that breaks. Real photos of the group matter more here than on a
    typical site.
-6. **Decide on artwork of Jesus Christ.** Nothing is on the page yet, on
-   purpose. See "Artwork of Jesus Christ" below.
+6. **Confirm the artwork of Jesus Christ** is what you want. See "Artwork of
+   Jesus Christ" below.
 
 ## Artwork of Jesus Christ
 
-Requested, not shipped, because the three constraints do not currently
-intersect: Latter-day Saint in style, openly licensed, and not a European
-looking Christ.
+**Christ Pantocrator**, Saint Catherine's Monastery, Sinai, 6th century, in the
+closing section. Public domain by age. Full reasoning in CREDITS.md.
 
-- Official Church artwork (Del Parson, the Christus, the newer commissioned
-  pieces showing a Middle Eastern Christ) is copyright Intellectual Reserve,
-  Inc. The Terms of Use allow posting Gospel Media items to another website
-  "for your own personal, noncommercial use." A public outreach site for a
-  congregation is not clearly personal use, and the same terms say other
-  materials "may not be posted from this site to another website or computer
-  network without our prior written permission." Publishing that art here
-  without asking would be a coin flip on someone else's copyright.
-- Genuinely open alternatives do exist and are clearly not European: Ethiopian
-  Orthodox, Coptic and Byzantine icons of Christ, many of them public domain
-  on Wikimedia Commons. They are stylistically iconographic, which may read as
-  foreign next to Latter-day Saint visual culture.
+Why this one: it is not Anglo (olive skin, dark hair and eyes, Semitic
+features, and it predates the blonde European Jesus by about a thousand
+years), it is public domain so no permission is pending with Intellectual
+Reserve, and it shows a living Christ blessing and holding the gospels rather
+than a crucifixion, which matters because Latter-day Saint practice does not
+use the cross.
 
-Three ways forward, in the order I would try them:
+It reads Mediterranean rather than Black. If you want something more
+distinctly African, *Christ in Glory* from the Ethiopic Gospels (British
+Library Or. MS 481) is also public domain, but it is a stylised manuscript
+illumination and the best available scan is only 630x613.
 
-1. Email permissions@ChurchofJesusChrist.org, or ask the stake, and use
-   official Church art once you have an answer in writing.
-2. Use a public domain non-European icon and accept the change in visual register.
-3. Leave it out. Latter-day Saint meetinghouses are visually sparse by
-   design, so no artwork is a defensible choice rather than a gap.
+If you would rather use official Church artwork, that is still a live option,
+but get written permission from permissions@ChurchofJesusChrist.org first. The
+Terms of Use do not clearly cover posting it to a public congregation site.
 
 ## Notes
 
